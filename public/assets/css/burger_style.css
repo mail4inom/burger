@@ -1,0 +1,25 @@
+body {
+	background-color: lightyellow;
+	margin-top: 20px;
+}
+
+img {
+	width: 300px;
+	height: auto;
+}
+
+h5{
+	font-size: 20px;
+	color: rgb(167, 121, 4);
+}
+
+.btn{
+	background: dodgerblue;
+	color: white;
+	width: 100%;
+	
+}
+
+textarea{
+	width: 100%;
+}
