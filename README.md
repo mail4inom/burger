@@ -7,7 +7,7 @@
 
 <hr>
 
-#Technologies:
+# Technologies:
 
 * HTML, CSS, Javascript, Node.js, Express.js, Handlebars, MySQL, ORM, MVC.
 
